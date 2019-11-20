@@ -144,7 +144,7 @@ downloaded from the course website and is not the `README.md` file that I genera
   - Field 2 is either 'body' or 'gravity', determined by which of these terms appears in the original
     variable name. As indicated in `features_info.txt`, the original acceleration signal was
     separated into these two categories.
-  - Field 3 is either 'body' or 'gyro', determined by which of these terms appears in the original
+  - Field 3 is either 'acc' or 'gyro', determined by which of these terms appears in the original
     variable name. As indicated in `features_info.txt`, these reflect whether the feature came from
     the accelerometer or the gyroscope.
   - Field 4 is either 'raw' or 'jerk'. If 'Jerk' appears in the original variable name, then this
