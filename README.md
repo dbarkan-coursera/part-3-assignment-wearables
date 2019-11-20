@@ -2,10 +2,13 @@
 Below is a description of my submission for the Coursera **Getting and Cleaning Data** Week 4 course
 project. 
 
-In addition to this `readme.md` file, the files `codebook.md`, `run_assignment.R`, and
-`wearable_summary.txt` should be available in this GitHub repository as part of the assignment
-(`wearable_summary.txt` is the file that's output by the script, but is also provided for
-reference). Please see those files for details that supplement the description in this `readme.md` file.
+In addition to this `README.md` file, the files `codebook.md`, `run_assignment.R`, and
+`sample_wearable_summary_output.txt` should be available in this GitHub repository as part of the assignment
+(`sample_wearable_summary_output.txt` is the file that's output by the script, but is also provided for
+reference). Please see those files for details that supplement the description in this `README.md` file.
+
+The files `ORIGINAL_README.txt` and `features_info.txt` are also in this GitHub repository for
+reference; they were part of the original assignment dataset. 
 
 # Running the Script
 ## Expected Directory Structure

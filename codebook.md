@@ -4,12 +4,12 @@ submission for the Coursera **Getting and Cleaning Data** Week 4 course project.
 
 This file specifically describes the columns in the output dataset saved in the file
 `wearable_summary.txt`. More information regarding the script including usage and expected input is
-available in the accompanying `readme.md` file. There is only a single output file and the data are
+available in the accompanying `README.md` file. There is only a single output file and the data are
 represented in in 'long form'.
 
 More information regarding this raw data is available in the `features_info.txt` and `ORIGINAL_README.txt`
 files which were part of the course assignment input dataset (note that `ORIGINAL_README.txt` was
-downloaded from the course website and is not the `readme.md` file that I generated).
+downloaded from the course website and is not the `README.md` file that I generated).
 
 
 # Column descriptions
@@ -128,7 +128,7 @@ downloaded from the course website and is not the `readme.md` file that I genera
   etc.). I am not familiar with this type of data and in my opinion, identifying the units in this
   case is beyond the scope of the assignment. There is some information in the accompanying
   `features_info.txt` and `ORIGINAL_README.txt` (which is the readme file that accompanied the dataset; note
-  this is different from `readme.md` that I generated as part of the assignment). They indicate that
+  this is different from `README.md` that I generated as part of the assignment). They indicate that
   the raw data is in standard gravity units of 'g' as well as radians / second, but I'm not sure
   what these units become following the filtering and FFTs.
 
